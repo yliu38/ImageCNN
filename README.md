@@ -51,7 +51,7 @@ pip install -r requirements.txt   # matplotlib, scikit-learn
 unzip tcga_coad_msi_mss_jpg.zip -d data/
 
 # 3. Train & evaluate
-python refined_image_classification.py \
+python CNN.py \
        --data_dir data/jpg \
        --arch vgg19_bn \
        --epochs 30 \
