@@ -1,6 +1,7 @@
 # Microsatellite Status Classification from TCGA‑COAD Whole‑Slide Tiles
 
 **Project goal:** Predict microsatellite instability (MSI) vs. microsatellite stability (MSS) in colorectal cancer from H&E whole‑slide image (WSI) tiles, offering a fast, low‑cost screening alternative to DNA‑based assays.
+![Sample Picture](Picture1.png)
 
 ---
 
