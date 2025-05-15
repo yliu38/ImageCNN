@@ -75,9 +75,4 @@ Artifacts in `output_dir/`:
 4. Replace classifier head with **ArcFace** or **AAM‑Softmax** for better margin separation.  
 5. Hyper‑parameter search (LR, scheduler, optimiser, mix‑up).
 
----
 
-## 7&nbsp;&nbsp;License
-
-Code: MIT © 2025 Yang Liu  
-Dataset: subject to TCGA data usage policies (dbGaP phs000178).
