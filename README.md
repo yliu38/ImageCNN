@@ -58,9 +58,6 @@ python CNN.py \
        --batch_size 32 \
        --output_dir runs/vgg19bn
 
-# 4. Inference on new tiles
-python predict.py --weights runs/vgg19bn/best_model.pt --img img.jpg
-```
 
 Artifacts in `output_dir/`:
 
